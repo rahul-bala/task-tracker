@@ -3,7 +3,7 @@
 ## Description
 
 This application has been built to support keeping of tasks (to-do notes) for users. 
-The application does not include a user interface. Instead, the app can be accessed using the swagger page on the app is started up.
+The application does not include a user interface. Instead, the app can be accessed using the swagger page once the app is started up.
 The swagger page will be available at http://localhost:8080/swagger-ui.html
 
 The following features are supported by the app.
